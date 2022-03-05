@@ -27,12 +27,12 @@ Frontend
 
 Backend
 
-•Django  •Node.JS • Express.JS
+•Node.JS • Express.JS
 
 
 Frameworks
 
-• React.JS
+•Django  • React.JS
 
 
 Database
