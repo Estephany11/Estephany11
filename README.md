@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Estephany
 - 👀 I’m a Mechanical Engineer learning to code
 - 🌱 I’m currently learning Django
-- 💞️ I’m looking to participate in a Data Science Project 
+- 💞️ I’m looking to participate in Data Science Projects
 
 <!---
 Estephany11/Estephany11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
