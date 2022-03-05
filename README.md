@@ -14,26 +14,32 @@ Languages
 
 • Python • JavaScript  • R
 
+
 Libraries
 
 • NumPy • Pandas • Scikit-Learn • Matplotlib
 
+
 Frontend
 
-HTML • CSS • Bootstrap
+• HTML • CSS • Bootstrap
+
 
 Backend
 
 •Django  •Node.JS • Express.JS
 
+
 Frameworks
 
-React.JS
+• React.JS
+
 
 Database
 
-MongoDB • MySQL
+• MongoDB • MySQL
+
 
 Tools
 
-Git • GitHub • Heroku • Atom • Sublime • Jupyter 
+• Git • GitHub • Heroku • Atom • Sublime • Jupyter 
