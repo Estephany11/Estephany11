@@ -12,12 +12,12 @@ Languages and Tools:
 
 Languages
 
-• Python • JavaScript  • R
+• Python 
 
 
 Libraries
 
-• NumPy • Pandas • Scikit-Learn • Matplotlib
+• NumPy • Pandas •  Matplotlib
 
 
 Frontend
@@ -27,12 +27,12 @@ Frontend
 
 Backend
 
-•Node.JS • Express.JS
+•Node.JS 
 
 
 Frameworks
 
-•Django  • React.JS
+•Django  
 
 
 Database
