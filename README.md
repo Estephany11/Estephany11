@@ -17,7 +17,7 @@ Languages
 
 Libraries
 
-• NumPy • Pandas •  Matplotlib
+• NumPy • Pandas •  Matplotlib - Sciki-learn
 
 
 Frontend
@@ -32,7 +32,7 @@ Backend
 
 Frameworks
 
-•Django  
+•Django  •React basics
 
 
 Database
@@ -42,4 +42,4 @@ Database
 
 Tools
 
-• Git • GitHub • Heroku • Atom • Sublime • Jupyter 
+• Git • GitHub • Heroku • Atom • Sublime • Jupyter Notebook
